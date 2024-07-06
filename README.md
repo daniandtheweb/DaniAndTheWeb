@@ -1,4 +1,4 @@
-### Hi there , I'm Daniele - aka DaniAndTheWeb 👋
+### Hi there , I'm Daniele - daniandtheweb 👋
 
 <!--
 **DaniAndTheWeb/DaniAndTheWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
